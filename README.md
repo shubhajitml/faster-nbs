@@ -1,2 +1,2 @@
-# expo
-Notebooks for [fastaiLive]() (part-1)
+# faster-nbs
+Notebooks in [fastaiLive](https://course.fast.ai/) (part-1 v3)
